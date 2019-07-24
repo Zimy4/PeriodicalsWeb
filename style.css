@@ -1,0 +1,38 @@
+.content-journal h2{
+    color:#005ba2;
+    font-size:24px;
+    margin-bottom:15px;
+}
+.content-journal .issues span,.content-journal .issues a,.content-journal .issues label{
+    display:inline-block;
+    vertical-align:middle;
+    border:1px solid #cccccc;
+    color:#999999;
+    padding:2px 4px;
+    margin-right:10px;
+    margin-bottom:10px;
+    text-decoration:none;
+    font-size:18px;
+    border-radius:4px;
+}
+
+.content-journal .issues label input{
+    cursor:pointer;
+}
+.content-journal .issues a{
+    cursor:pointer;
+    color:#005ba2;
+}
+.content-journal .issues a:hover{
+    background:#e2e2e2;
+}
+.content-journal .users-table{
+    width:100%;
+    border-collapse:collapse;
+    padding:0;
+}
+.alfabetical {	
+	margin: 2px;
+	text-align: center;
+	font-family: 'PT Mono', monospace;
+}
